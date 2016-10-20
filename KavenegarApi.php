@@ -1,9 +1,9 @@
 <?php
-require("Exceptions/BaseException.php");
-require("Exceptions/HttpException.php");
-require("Exceptions/ApiException.php");
-require("Enums/General.php");
-require("Enums/ApiLogs.php");
+require("BaseException.php");
+require("HttpException.php");
+require("ApiException.php");
+require("General.php");
+require("ApiLogs.php");
 
 class KavenegarApi
 {
